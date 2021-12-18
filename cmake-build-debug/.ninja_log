@@ -1,0 +1,9 @@
+# ninja log v5
+645	886	1639783697890196259	CA_FifthHomework	f899684eac865926
+0	643	1639783697646195084	CMakeFiles/CA_FifthHomework.dir/main.cpp.o	208a073027047b77
+1	597	1639796874421024224	CMakeFiles/CA_FifthHomework.dir/Thread.cpp.o	72a34fa07e70224a
+0	1014	1639796874841023995	CMakeFiles/CA_FifthHomework.dir/main.cpp.o	208a073027047b77
+0	1224	1639796875049023882	CMakeFiles/CA_FifthHomework.dir/Hotel.cpp.o	bdf7b9120cd9322a
+0	872	1639796984212971932	CMakeFiles/CA_FifthHomework.dir/Hotel.cpp.o	bdf7b9120cd9322a
+1	776	1639797381972875470	CMakeFiles/CA_FifthHomework.dir/Hotel.cpp.o	bdf7b9120cd9322a
+1	1267	1639797621004861091	CMakeFiles/CA_FifthHomework.dir/Hotel.cpp.o	bdf7b9120cd9322a
